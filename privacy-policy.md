@@ -1,18 +1,28 @@
-Privacy Policy
-Effective Date: July 12, 2025
+# 🛡️ Privacy Policy
 
-App Name: Mime Over Matter
+**Effective Date:** July 12, 2025  
+**App Name:** *Mime Over Matter*
 
-Thank you for using our app. Your privacy is important to us. This privacy policy is intended to inform users about our practices regarding the collection, use, and disclosure of personal information.
+Thank you for using *Mime Over Matter*. Your privacy is important to us, and we are committed to ensuring transparency about how our app operates.
 
-Information Collection and Use
-We do not collect, store, or share any personal or sensitive user data. Our app operates entirely offline and does not require any user login, account creation, or access to device services.
+## 📱 Information Collection and Use
 
-Children's Privacy
-Our app does not target children under the age of 13, and we do not knowingly collect any personal information from children.
+We do **not** collect, store, or share any personal or sensitive user data.  
+Our app operates entirely offline and does not require:
+- Login credentials
+- Account creation
+- Access to your device’s services or permissions
 
-Policy Changes
-This policy may be updated from time to time. Any changes will be reflected on this page.
+## 👶 Children’s Privacy
 
-Contact Us
-If you have any questions or concerns about this privacy policy, feel free to contact us at altregogh@gmail.com.
+*Mime Over Matter* does **not** target children under the age of 13.  
+We do not knowingly collect personal information from anyone, regardless of age.
+
+## 🔄 Policy Updates
+
+We may revise this privacy policy periodically. Any changes will be posted here, and the effective date will be updated accordingly.
+
+## 📬 Contact Us
+
+If you have any questions or concerns about this privacy policy, please contact us at:  
+📧 **altregogh@gmail.com**
